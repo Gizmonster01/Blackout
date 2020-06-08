@@ -1,0 +1,12 @@
+name: Blackout
+version: ${project.version}
+main: me.gizmonster.blackout.MainClass
+api-version: 1.13
+prefix: Blackout
+authors: [gizmonster]
+description: Handles a Triad side project's features
+commands:
+  debug:
+    description: does the things ok?
+  ln:
+    description: Sets the localized name of an item

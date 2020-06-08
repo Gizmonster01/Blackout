@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: de.iani.cubeside:LWC:5.0.16-SNAPSHOT">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/de/iani/cubeside/LWC/5.0.16-SNAPSHOT/LWC-5.0.16-20200424.044739-61.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/de/iani/cubeside/LWC/5.0.16-SNAPSHOT/LWC-5.0.16-20200424.044739-61-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/de/iani/cubeside/LWC/5.0.16-SNAPSHOT/LWC-5.0.16-20200424.044739-61-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
